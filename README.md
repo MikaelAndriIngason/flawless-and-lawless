@@ -1,3 +1,5 @@
+<img src="flawlessandlawless.webp" alt="Flawless and Lawless header image">
+
 # Flawless & Lawless
 
 **Flawless & Lawless** A stealth game where you play as a robber infiltrating an office building, completing objectives and avoiding detection. Climb floor by floor toward the top, using tools, items, and strategy to stay one step ahead. Each level offers new challenges.
